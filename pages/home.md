@@ -7,6 +7,8 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+![](static/img/culture_jam_festival_logo.png)
+
 # SPORTS & MUSIC FESTIVAL
 
 OCTOBER 24TH 2021 
