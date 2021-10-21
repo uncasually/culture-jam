@@ -9,8 +9,6 @@ eleventyNavigation:
 ---
 ![](static/img/culture_jam_festival_logo.png)
 
-# SPORTS & MUSIC FESTIVAL
+### OCTOBER 24TH 2021 
 
-OCTOBER 24TH 2021 
-LA SHRINE OUTDOORS
-12PM - 10PM
+#### LA SHRINE OUTDOORS 12PM - 10PM
